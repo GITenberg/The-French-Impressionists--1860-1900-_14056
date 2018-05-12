@@ -4,7 +4,7 @@ contributor:
   translator:
     agent_name: Konody, Paul G. (Paul George)
     alias: Konody, Paul George
-    birthdate: &id001 1872
+    birthdate: 1872
     deathdate: 1933
     gutenberg_agent_id: '39609'
     url: http://www.gutenberg.org/2009/agents/39609
@@ -17,11 +17,13 @@ creator:
     aliases:
     - Faust, Camille Laurent Célestin
     - Faust, Camille Laurent Celestin
-    birthdate: *id001
+    birthdate: 1872
     deathdate: 1945
     gutenberg_agent_id: '5351'
     url: http://www.gutenberg.org/2009/agents/5351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14056#The-French-Impressionists--1860-1900-
 gutenberg_bookshelf: Art
 gutenberg_issued: '2004-11-15'
 gutenberg_type: Text
